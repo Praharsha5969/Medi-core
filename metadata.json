@@ -1,0 +1,8 @@
+{
+  "name": "Remix Medi - Hospital \u0026 Personal Healthcare Platform",
+  "description": "Unified healthcare platform linking Patients, Doctors, Hospitals, and Emergency Services with continuous telemetry, Medi ID, FHIR records, and smart clinical workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
